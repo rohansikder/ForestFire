@@ -21,14 +21,6 @@ This project simulates the spread and recovery of forest fires using parallel co
 ### Prerequisites
 - Java Development Kit (JDK) 17 or newer
 
-### Running the Simulation
-Compile and run using your Java IDE or terminal:
-
-```bash
-javac ForestFireSimulation.java
-java ForestFireSimulation
-```
-
 ### Configuration
 The simulation can be customized by modifying the following parameters in `ForestFireSimulation.java`:
 - `gridSizes`: Array of grid sizes to test (e.g., `[100, 500, 1000, 2000]`).
